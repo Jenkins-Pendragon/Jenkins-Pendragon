@@ -29,10 +29,19 @@ As a Game Designer;
 
  As a Developer;
  
-- [ ] Design Patterns
-- [ ] Reactive Programming (UniRX)
-- [ ] Unity Job System
-- [ ] Shader Graph
-- [ ] Visual Effect Graph
-- [ ] Procedural Animation
+- [ ] [Design Patterns]()
+- [ ] [Reactive Programming (UniRX)]()
+- [ ] [Unity Job System]()
+- [ ] [Shader Graph]()
+- [ ] [Visual Effect Graph]()
+- [ ] [Procedural Animation]()
+- [ ] [Adressables]()
+
+ Some tools I'm interested in and want to learn;
+ 
+ - [ ] [Gaia Pro](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2021-terrain-scene-generator-193476)
+ - [ ] [Google Maps SDK](https://developers.google.com/maps/documentation/gaming/overview_musk)
+ - [ ] [MapBox SDK](https://www.mapbox.com/unity)
+ - [ ] [Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-72356)
+ - [ ] [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
 
