@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Jenkins-Pendragon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Game Design & Game Development.
+- 🌱 I’m currently learning Color Theory, Narrative Design & Project Management. 
+- 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/jenkinspendragon/) or e-mail: jenkins.offical@gmail.com
 
-<!---
-Jenkins-Pendragon/Jenkins-Pendragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
