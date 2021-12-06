@@ -4,3 +4,11 @@
 - 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/jenkinspendragon/) or e-mail: jenkins.offical@gmail.com
 
 
+- [ ] Color Theory
+- [ ] Game Loops
+- [ ] Creating Game Flow
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
