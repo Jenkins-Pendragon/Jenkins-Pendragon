@@ -34,4 +34,5 @@ As a Game Designer;
 - [ ] Unity Job System
 - [ ] Shader Graph
 - [ ] Visual Effect Graph
+- [ ] Procedural Animation
 
