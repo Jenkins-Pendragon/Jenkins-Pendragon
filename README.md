@@ -37,12 +37,3 @@
 - [ ] [Procedural Animation](https://www.youtube.com/watch?v=acMK93A-FSY)
 - [ ] [Adressables](https://unity.com/how-to/simplify-your-content-management-addressables)
 
- ### Some tools I'm interested in and want to learn;
- 
- - [ ] [Gaia Pro](https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2021-terrain-scene-generator-193476)
- - [ ] [Google Maps SDK](https://developers.google.com/maps/documentation/gaming/overview_musk)
- - [ ] [MapBox SDK](https://www.mapbox.com/unity)
- - [ ] [Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-72356)
- - [ ] [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
- - [ ] [World Creator](https://assetstore.unity.com/packages/tools/terrain/world-creator-professional-55073)
-
